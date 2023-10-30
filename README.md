@@ -1,4 +1,4 @@
-# pytorch-lightning-fine-tuning
+# Pytorch Lightning Fine Tuning
 
 Example of using Pytorch Lightning to fine tune a pretrained Causal Language Model. This is designed to run quickly on a single GPU machine. It uses the relatively small [CMU Book Summary Dataset](https://www.cs.cmu.edu/~dbamman/booksummaries.html) and is  set to run with a single training epoch by default, to make it quicker to run.
 
